@@ -1,0 +1,17 @@
+{
+  "orders": 95824,
+  "bad_review_rate": 0.128,
+  "auc_at_purchase": {
+    "logistic_regression": 0.607,
+    "gradient_boosting": 0.611
+  },
+  "auc_at_delivery": {
+    "logistic_regression": 0.693,
+    "gradient_boosting": 0.706
+  },
+  "repurchase_gap": {
+    "repurchase_late_bad_pct": 2.92,
+    "repurchase_on_time_good_pct": 4.07,
+    "z": 3.24
+  }
+}

@@ -1,0 +1,4 @@
+data/raw/
+data/olist.db
+__pycache__/
+.venv/
